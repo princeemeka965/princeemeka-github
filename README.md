@@ -20,7 +20,7 @@
 <img align="left" alt="GitHub" width="26px" title="Github" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:1000px;" />
 
 
-
+<br /> <br />
 ### Projects:
 
 <a href="https://ips-frontend.vercel.app/">IPhone Photography School <img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> </a>
