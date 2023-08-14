@@ -23,13 +23,13 @@
 <br /> <br />
 ### Projects:
 
-<a href="https://rentals-agency-omega.vercel.app/">Rentals Agency <img align="left" alt="Next" width="26px" title="Next.Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://rentals-agency-omega.vercel.app/" target="_blank">Rentals Agency <img align="left" alt="Next" width="26px" title="Next.Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /> </a>
 
-<a href="https://ips-frontend.vercel.app/">IPhone Photography School <img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://ips-frontend.vercel.app/" target="_blank">IPhone Photography School <img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> </a>
 
-<a href="https://cloudenly.com/">Cloudenly <img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> (Collaborated work) </a>
+<a href="https://cloudenly.com/" target="_blank">Cloudenly <img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> (Collaborated work) </a>
 
-<a href="https://5mlog.netlify.app/">5M logistics app <img align="left" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> (Collaborated work) </a>
+<a href="https://5mlog.netlify.app/" target="_blank">5M logistics app <img align="left" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> (Collaborated work) </a>
 
-<a href="https://buzcamp.com">Buzcamp <img align="left" alt="Next" width="26px" title="Next.Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://buzcamp.com" target="_blank">Buzcamp <img align="left" alt="Next" width="26px" title="Next.Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /> </a>
 
