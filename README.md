@@ -23,6 +23,8 @@
 <br /> <br />
 ### Projects:
 
+<a href="https://rentals-agency-omega.vercel.app/">Rentals Agency <img align="left" alt="Next" width="26px" title="Next.Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /> </a>
+
 <a href="https://ips-frontend.vercel.app/">IPhone Photography School <img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> </a>
 
 <a href="https://cloudenly.com/">Cloudenly <img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> (Collaborated work) </a>
