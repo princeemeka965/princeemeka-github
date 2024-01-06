@@ -23,7 +23,7 @@
 <br /> <br />
 ### Projects:
 
-<a href="https://music-app-plum-gamma.vercel.app" target="_blank">Music App <img align="left" alt="Next" width="26px" title="Next.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://shoppy-rad.netlify.app/" target="_blank">Shoppy <img align="left" alt="Next" width="26px" title="Next.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
 
 <a href="https://quizgrad-new.netlify.app/" target="_blank">Quiz Test App <img align="left" alt="Next" width="26px" title="Next.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
 
