@@ -23,7 +23,7 @@
 <br /> <br />
 ### Projects:
 
-<a href="https://woorkroom.vercel.app/" target="_blank">WoorkRoom<img align="left" alt="Vue" width="26px" title="Vue Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://woorkroom.vercel.app/" target="_blank">WoorkRoom <img align="left" alt="Next" width="26px" title="Next.Js" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" /> </a>
 
 <a href="https://5mlog.netlify.app/" target="_blank">5M logistics app <img align="left" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
 
